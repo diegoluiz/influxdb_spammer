@@ -1,0 +1,26 @@
+{
+  "name": "request-maker",
+  "version": "0.0.1",
+  "description": "Send data to influxdb",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoluiz/influxdb_spammer.git"
+  },
+  "keywords": [
+    "influxdb"
+  ],
+  "author": "Diego Luiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegoluiz/influxdb_spammer/issues"
+  },
+  "homepage": "https://github.com/diegoluiz/influxdb_spammer/blob/master/README.md",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "request": "^2.72.0"
+  }
+}
