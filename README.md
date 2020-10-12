@@ -1,5 +1,5 @@
 # influxdb_spammer
-Sends loads of requests to influxdb
+Sends loads of requests to influxdb.
 
 Add the data you want to send in the *measurements* array follow the convention:
  * name: name of the measurement 
